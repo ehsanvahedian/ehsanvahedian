@@ -1,7 +1,7 @@
 - 👋 Hi, I’m ehsan vahedian
-- 👀 I’m interested in JavaScript
-- 🌱 I’m getting JS Programmer
-- 📫 How to reach me ? -On telegram @ehsanvahedian
+- 👀 Looking for getting better in my Field
+- Grothing Number of Projects and of course Their Quality
+- How to reach me ? -On telegram @ehsanvahedian
 
 <!---
 ehsanvahedian/ehsanvahedian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
