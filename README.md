@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ehsan vahedian
-- 👀 Looking for getting better in my Field
+- 👀 getting better in my Field
 - Grothing Number of Projects and of course Their Quality
 - How to reach me ? -On telegram @ehsanvahedian
 
